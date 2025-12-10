@@ -28,7 +28,7 @@ O sistema utiliza conceitos de Orientação a Objetos e integração via API par
 
 ---
 
-## 📂 Diagrama de Classes
+##  Diagrama de Classes
 
 ```mermaid
 classDiagram
